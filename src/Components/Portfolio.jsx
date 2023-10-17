@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: ">Gesture Control for Hill Climb Racing",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A fun OpenCV experimentto play your fav game with hands ",
+    url: "https://github.com/Sudhanshu1st/gesture_gaming",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Suicide Detection & Prevention Chatbot Project",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "With the help of ML and Python, made a chatbot to talk and provide help during hard times",
+    url: "https://github.com/Sudhanshu1st/Suicide-Detection-Chatbot-Project",
   },
   {
-    title: "My Resume Site",
+    title: "My Portfolio",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://sudhanshu1st.github.io/my_portfolio/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Text Summarizer using Langchain and OpenAI",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Text summarizer of any web page using OpenAI's API to leverage it's powerful GPT.",
+    url: "https://github.com/Sudhanshu1st/streamlit-app",
   },
 ];
 
